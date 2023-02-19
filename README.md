@@ -63,6 +63,13 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - Linux hardening (work in progress)
 - Website hardening (CSP, CORS, etc)
 
+## Application Server
+
+- JBoss
+- NGINX
+- Apache Tomcat
+- Websphere
+
 <!---
 vitalegi/vitalegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
