@@ -39,7 +39,6 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - Vert.x
 - Liferay 7
 - Hibernate
-- A bit of PowerShell/Bash
 
 ## Frontend
 
@@ -72,3 +71,8 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - NGINX
 - Apache Tomcat
 - Websphere
+
+## Sys
+
+- A bit of PowerShell/Bash scripting
+- CentOS 8 configuration (mainly for side-projects)
