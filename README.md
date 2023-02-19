@@ -6,17 +6,20 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 
 ## I'm studying
 
-- Quasar
-- Flexbox
+- [Quasar](https://quasar.dev/)
 - Docker
 - Kubernetes (GKE)
-- CSS & preprocessors (upcoming)
+
+### I want to study
+
+- Flexbox
+- CSS & preprocessors
+- BDD, Cucumber
 
 ## Methodologies & paradigms
 
 - I'm experienced with TDD
 - I'd like to use more DDD
-- I want to try BDD
 - I use on a daily base DevSecOps, CD
 - I'm confident with object oriented, functional, imperative programming
 - Not really a fun, but know how to work in Agile
@@ -69,8 +72,3 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - NGINX
 - Apache Tomcat
 - Websphere
-
-<!---
-vitalegi/vitalegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
