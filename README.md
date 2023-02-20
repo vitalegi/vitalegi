@@ -43,7 +43,7 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 ## Frontend
 
 - Typescript
-- Vue JS / Vue 3
+- Vue JS (Vuetify) / Vue 3
 - jQuery :drop_of_blood:
 - Caching policies
 
