@@ -7,8 +7,7 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 ## I'm studying
 
 - [Quasar](https://quasar.dev/)
-- Docker
-- Kubernetes (GKE)
+
 
 ### I want to study
 
@@ -52,6 +51,11 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - PostgreSQL
 - Oracle
 - Elasticsearch
+
+## Containers
+
+- Docker
+- Kubernetes (GKE)
 
 ## Monitoring
 
