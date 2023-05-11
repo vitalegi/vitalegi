@@ -21,12 +21,13 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - I'd like to use more DDD
 - I use on a daily base DevSecOps, CD
 - I'm confident with object oriented, functional, imperative programming
-- Not really a fun, but know how to work in Agile
+- Not really a fun, but know how to work with Agile methodologies (kanban, scrum) 
 
 ## Architecture
 
 - Standalone server (websphere, jboss, tomcat/spring boot, nginx)
-- Microservices (GKE, OpenShift) and when I'm out of money heroku/fly.io
+- Microservices (GKE, OpenShift) and - when I'm out of money - heroku/fly.io/netlify
+
 - RESTful, usually not strictly
 - WebSocket
 - Server Sent Events
