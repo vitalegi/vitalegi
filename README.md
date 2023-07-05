@@ -27,7 +27,6 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 
 - Standalone server (websphere, jboss, tomcat/spring boot, nginx)
 - Microservices (GKE, OpenShift) and - when I'm out of money - heroku/fly.io/netlify
-
 - RESTful, usually not strictly
 - WebSocket
 - Server Sent Events
