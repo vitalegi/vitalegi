@@ -7,6 +7,7 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 ## I'm studying
 
 - [Quasar](https://quasar.dev/)
+- [Rust](https://www.rust-lang.org/)
 
 
 ### I want to study
@@ -14,6 +15,7 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - Flexbox
 - CSS & preprocessors
 - BDD, Cucumber
+- [Fastify](https://fastify.dev/)
 
 ## Methodologies & paradigms
 
