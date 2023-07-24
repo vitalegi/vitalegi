@@ -69,7 +69,7 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 - OAuth 2.0
 - SAML 2.0
 - Linux hardening (work in progress)
-- Website hardening (CSP, CORS, etc)
+- Website hardening (CSP, CORS, ACAO, etc)
 
 ## Application Server
 
@@ -82,3 +82,4 @@ In fact, talking about big achievement, I have a marvelous cat :heart:
 
 - A bit of PowerShell/Bash scripting
 - CentOS 8 configuration (mainly for side-projects)
+- Netlify setup
